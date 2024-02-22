@@ -19,7 +19,7 @@ I'm a full stack Web developer...
 
 ## Used By
 
-This project is used by the following companies:
+This project is used by the following amazing persons:
 
 - @ig_tejas
 - @prateek
