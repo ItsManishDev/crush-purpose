@@ -18,7 +18,7 @@ noBtn.addEventListener("mouseenter", function () {
 
 function sendMessage(response) {
   if (response === "Yes") {
-    alert("User responded: " + response);
+    alert("Boyfriend responded: I LOVE YOU TOO");
   }
   // No alert for "No" response
 }
